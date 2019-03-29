@@ -1,0 +1,16 @@
+{
+  "name": "Test Generators",
+  "version": "0.0.1",
+  "description": "Some tests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikvanlith/hello-world.git"
+  },
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
